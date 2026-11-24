@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/Epikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Epikofficial?tab=repositories">
-  <img src="https://img.shields.io/github/repos/Epikofficial?label=Repositories&style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub repositories" />
+  <img src="https://img.shields.io/github/stars/Epikofficial?label=Total%20Stars&style=for-the-badge&color=FF0080&logo=github" alt="GitHub repositories" />
 </a>
 
 <br/><br/>
